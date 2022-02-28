@@ -1,0 +1,318 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The teares of Sion upon the death of Josiah, distilled in some country sermon notes on Febr. 4. and 11th, 1649. Being the quinquagesima and sexagesima Sundayes for that yeare.</title>
+            <author>Phil-adelpho-Theo-basieus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95607</idno>
+            <idno type="STC">Wing T608</idno>
+            <idno type="STC">Thomason E560_18</idno>
+            <idno type="STC">ESTC R203771</idno>
+            <idno type="EEBO-CITATION">99863596</idno>
+            <idno type="PROQUEST">99863596</idno>
+            <idno type="VID">165198</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95607)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165198)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E560[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The teares of Sion upon the death of Josiah, distilled in some country sermon notes on Febr. 4. and 11th, 1649. Being the quinquagesima and sexagesima Sundayes for that yeare.</title>
+                  <author>Phil-adelpho-Theo-basieus.</author>
+               </titleStmt>
+               <extent>[6], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed in Greek characters: Phil-adelpho-Theo-basileus.</note>
+                  <note>A funeral sermon on the death of Charles I.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Death and burial --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Joe Kilduff</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Joe Kilduff</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165198:1" rendition="simple:additions"/>
+            <p> THE TEARES OF SION Vpon the Death of JOSIAH, Diſtilled in ſome Country Ser<g ref="char:EOLhyphen"/>mon notes on <hi>Febr.</hi> 4.and 11<hi>th,</hi> 1649.</p>
+            <p>Being the<hi>Quinquageſima</hi> and<hi>Sexageſima</hi>Sundayes for that yeare.</p>
+            <q>
+               <hi>Glorioſius eſſe pro Chriſto mori, quàm Regnare in hoc ſeculo; Quid enim praeſtantius quàm fieri Chriſti Hoſtiam?</hi> 
+               <bibl>
+                  <hi>Ambroſ. de bo<g ref="char:EOLhyphen"/>no mortis, cap. 3.</hi>
+               </bibl>
+            </q>
+            <q>
+               <hi>Bleſſed are they which are perſecuted for Righteouſneſſe ſake, for theirs is the kingdome of Heaven,</hi>
+               <bibl>Mat.5.10.</bibl>
+            </q>
+            <p>Printed in the Yeare 1649.</p>
+            <pb facs="tcp:165198:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:165198:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Eader, I preſent to you thoſe Teares, which (if you be truly Chriſtian) were once in your own eyes; and the cauſe of which can never be out of your heart, for you ought to think your life ſpared a<g ref="char:EOLhyphen"/>while, onely to lament his Death, whoſe life was gi<g ref="char:EOLhyphen"/>ven in exchange for yours; and not to be ſpared long, becauſe his was not ſpared at all: you have nothing left you now, but to live and Mourne, or to Pray and Dye: For which cauſe you may well give us alſo in the Countrey, leave to be as dutifull as others, though not as Court-like as Affectionate, though not as Eloquent; 'Tis not Oſtentation (that after ſo long Reluctancie) brings theſe ſad Drops to be drawne out into publike lines, but meer Duty to the Dead King, and Charity to the Living Subjects, thoſe eſpecially whom it moſt deeply concernes to be heartily ſorry, yet care not to come to the Place where this was firſt publiſhed, to know ſo much: And to them as Servants, I as a miniſter of Chriſt muſt give this Admonition, They take, not too little, but too much of Chriſt upon them to be good Chriſtians: They are taught to learne of Chriſt in his Humiliation, to bee meeke and lowly, pittifull and Patient; But they do aſſume the ſtate of his Exaltation, to bee Judges of the Quick and Dead: I dare not judge their perſons, (for my ſelfe a ſinner feare to be judged of God,) but I muſt condemne their preſumption, if they meaſure their Religion by their ſucceſſe, why doe they not advance Turciſme above Chriſti<g ref="char:EOLhyphen"/>anitie? If by themſelves, why come they ſo farre ſhort of the worſt Chriſtians? For in Gouernment they know no Charitie, and under it they know no Patience; A character which belong<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> onely to thoſe that live within the Torrid Zone of a Furious Zeale,
+<pb facs="tcp:165198:3"/>
+which if it cannot call down fire from Heaven, will fetch up fire from Hell, rather then not ſet the whole world in a combuſti<g ref="char:EOLhyphen"/>on: Believe it men of this Temper (or rather of this Diſtemper) had need either invent, or beſpeake a new Chriſtianitie, for the Old will not endure, much leſſe maintaine them. I muſt likewiſe ſay in behalfe of the Woman perſecuted by the Dragon, <hi>(Apoc.</hi> 12.) And of the Man perſecuted for the Woman, that though (at preſent) driven into the Wilderneſſe, they are ſtill both on the better ground: Not the more unhappy, or ſinfull, becauſe the leſſe (outwardly) ſucceſſefull; And in this reſpect doth the Diſciple of the Centuriſts judiciouſly caſtigate <hi>Salvian,</hi> for Defending Gods providence (when he ſuffered the Weſterne Churches to be trampled upon by <hi>Goths</hi> and <hi>Vandals,)</hi> onely with this Argument, That the ſaid Churches had been very ſinfull: <hi>Debebat autem non tantum Chriſtianorum Peccata accuſare, ſed (propter pios &amp; innocentis hominis) etiam docere, Deum immittere etiam ſanctis ſuis gravis afflictiones &amp; aerumnas, (ut Jobo Jeremiae, Jo<g ref="char:EOLhyphen"/>hanni Baptiſtae, &amp; aliis) ut conformes fiant imagini Filii Dei,</hi> ſaith <hi>Oſiander, Cent.</hi> 5. <hi>lib.</hi> 4. <hi>cap.</hi> 11. <hi>Salvian</hi> ſhould not onely have blamed the bad Chriſtians, for their ſinnes, but (for ſome very pious and innocent mens ſakes) have alſo taught, That God did often inflict great temporall puniſhments even upon his beſt and deareſt children, (as he brought <hi>Job</hi> to the dunghill, <hi>Jeremie</hi> to the dungeon, <hi>John Baptiſt</hi> to the Block) (we may adde, And King <hi>CHARLES</hi> to all three) to make them exactly confor<g ref="char:EOLhyphen"/>mable to the Image of his onely Son; that as by their doings they had borne the image of the living, ſo by their ſufferings they might beare the image of the Dying Chriſt. But I intend no new diſcourſe, onely the rehearſall of an old complaint; yet certainly this preſent Age may bluſh to thinke, and all future Ages will bluſh not to ſay, That never a more Pious, a more noble Prince, ſwayed the Scepter; Never a more impious, a more ignoble People, ſnatcht the Sword: And therefore I may not bluſh to ſay, that I was at firſt but Dumb in ſpeaking, and ſtill am but maime in writing this ſorrow: Better one hand had been on my mouth to ſtop my Voyce, th' other on my Heart to ſtop my Penne; For as no ſorrow is like <hi>Sions</hi> ſorrow, ſo no ſorrow of <hi>Sion</hi> was ever like to this for her deareſt <hi>Joſiah;</hi> As no mourning like the mourning of a Dove, ſo no mourning of the Dove like that of <hi>Haddadrim<g ref="char:EOLhyphen"/>mon:</hi>
+               <pb facs="tcp:165198:3"/>
+And therefore 'tis confeſſed, (without ſhame, but not with<g ref="char:EOLhyphen"/>out cauſe) that this expreſſion of <hi>Sions</hi> ſorrow is too dry, to make your eye now water at the Reading (though happily your heart did even bleed at the firſt hearing of the Diſmal Tragedie) but ſure the affection<g ref="char:punc">▪</g> made the Authors eye water at the writing of it: And you muſt needs have a drop in your eye too, otherwiſe you will ſee more cleerly to ſpie out faults, then the Author could to mend them: Who verily hopes for this reaſon to be juſtly offen<g ref="char:EOLhyphen"/>ſive to none, becauſe he intended not to burden any guiltleſſe heart, but to eaſe his own; And thoſe that are guilty, were better feele their burden here, then hereafter. The Devout man that carried the Martyr <hi>Stephen</hi> to his burial, and made great lamentation over him, <hi>(Acts</hi> 8. 2.) Burdened their ſhoulders by the carriage, but eaſed their hearts by the Lamentation; Nor would the Jewes that found ſo many ſtones to force St. <hi>Stephens</hi> death, find one to throw at him that ſo openly bewayled it; The reaſon was ſure, they were overcome by his Incomparable Patience, which ſpent his li<g ref="char:EOLhyphen"/>ving ſpirits in converting his perſecutors, But much more by his Divine charitie which poured out his dying ſpirit in praying for them; And ſo did our lately deceaſed Soveraigne, which melted the eyes (if not the heart) of that Officer of warre, who guarded him to his Death; And much more ſhould it pierce the very ſoule of a Sonne of Peace, who now Preacheth the Goſpel of Peace, and never ſtretched out his hand againſt the Kings life to harden his Heart, but for the Kings Bread to ſtrengthen it, which was the ſtaffe of his Life at <hi>Weſtminſter,</hi> and the Univerſitie above twenty yeares, and bound him by the pietie of Education, not to ſtudy or play, not to eat or drinke, not to ſleep or wake, without praying for a Bleſſing upon the King, as well as upon himſelfe. And though he hath theſe two laſt Olympiads of the bloudie Game (for ſure ſome men, like <hi>Abner,</hi> 2 <hi>Sam.</hi> 2. 14. made it but a Pa<g ref="char:EOLhyphen"/>ſtime) been wholly trained up in the ſevere Schoole of conſcience, (not onely ſpeculatively for the care of his own, but alſo practi<g ref="char:EOLhyphen"/>cally for the cure of other mens ſoules) yet is forced to confeſſe, that he cannot live in ſo great Patience (and charitie) as his King could Die. For which cauſe hee conceives himſelfe unwor<g ref="char:EOLhyphen"/>thy to be enquired after, either for Approbation, or for Reprehen<g ref="char:EOLhyphen"/>ſion; And having undertaken to be <hi>Sions</hi> Pen-man, (though with
+<pb facs="tcp:165198:4"/>
+               <hi>Pans</hi> Reed, in ſtead of <hi>Apollo's</hi> Quill) hee is reſolved to be known by no other Character then this of a true Citizen of <hi>Sion,</hi> that he is yours in all brotherly love, whether you be his ſo or no: Yet if you be any other ſo, he beſeeches you not to ſeparate thoſe, which God hath joyned together, Love the Brotherhood, Feare God, Honour the King: Hee deſires that all three may be inſepa<g ref="char:EOLhyphen"/>rably <note place="margin">1 <hi>Pet.</hi> 2. 17.</note> joyned in himſelfe, and remaines</p>
+            <closer>
+               <signed>Your ſervant in Chriſt, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:165198:4"/>
+            <head>The Tears of <hi>Sion</hi> upon the Death of JOSIAH, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <bibl>2 CHRON. 35. 24, 25.</bibl>
+               <q>24. <hi>And all</hi> Judah <hi>and</hi> Jeruſalem <hi>mourned for</hi> Joſiah.</q>
+               <q>25. <hi>And</hi> Jeremiah <hi>lamented for</hi> Joſiah; <hi>And all the ſinging men, and the ſinging women ſpake of</hi> Jo<g ref="char:EOLhyphen"/>ſiah <hi>in their Lamentations to this day; and made them an Ordubabce in Iſrael, and behold they are written in the Lamentations.</hi>
+               </q>
+            </epigraph>
+            <p>TIS want of ſorrow, that is the greateſt cauſe of ſorrow: Want of godly ſorrow to com<g ref="char:EOLhyphen"/>punction, that is the cauſe of wofull ſorrow to confuſion; <hi>Dives</hi> being in Torments hath not his <hi>memento</hi> given him for nothing, <hi>Luke</hi> 16. 25. <hi>Son, remember that thou in thy life time, &amp;c.</hi> for Eterni<g ref="char:EOLhyphen"/>tie and Time are as different in their condition as in their continuance: Heavineſſe muſt endure for the night of this life, that joy may come in the morning of Eternitie <hi>(Pſal.</hi> 30. 5.) (ſuch a Morning as never drawes to an Evening, and cannot bee overſhadowed with night:) Joy and gladneſſe may be a vanitie at all times, but 'tis alſo an impietie at ſuch a time, when God calls to weeping and to mourning; <hi>And in that day did the Lord God of Hosts call to weeping and to mourning,</hi> Iſa. 22. v. 12. <hi>And behold joy and gladneſſe,</hi>
+               <pb n="2" facs="tcp:165198:5"/>
+               <hi>v.</hi> 13. but what followes? next, <hi>Surely this iniquitie ſhall not be purged from you, till ye die, ſaith the Lord God of Hoſts.</hi> At ſuch a time Joy is not onely a great Vanitie, but alſo a great iniquitie, a very great ini<g ref="char:EOLhyphen"/>quitie, <hi>For this iniquitie ſhall not be purged from you, till ye die ſaith the Lord God of Hoſts:</hi> 'Tis not an Hoſt of men may forbid it, when the Lord of Hoſts calls for it: <hi>Judah</hi> and <hi>Jeruſalem</hi> would not be guil<g ref="char:EOLhyphen"/>ty of this iniquitie; The Prophet <hi>Jeremie</hi> durſt not be guilty of it: For when God called unto mourning for the Untimely Death (ſo untimely, that time it ſelfe could wiſh to be untimed in that part of its ſuc<g ref="char:EOLhyphen"/>ceſſion) the untimely death of their King <hi>Joſiah,</hi> their Religious, their Devout, their unparalelled King <hi>Jo<g ref="char:EOLhyphen"/>ſiah,</hi> the Text ſaith, All <hi>Judah</hi> and <hi>Jeruſalem</hi> mour<g ref="char:EOLhyphen"/>ned, and <hi>Jeremiah</hi> mourned, and the Singing men and ſinging women mourned, and left a Pattern of mour<g ref="char:EOLhyphen"/>ning to all Ages and all Sexes, and all conditions, and made them an Ordinance in <hi>Iſrael,</hi> and behold they are written in the <hi>Lamentations.</hi> Tears are the beſt comment upon the Text, and they cannot be brought into method; for ſorrow is an ill Courtier, and me<g ref="char:EOLhyphen"/>thod is but the Courtſhip of Learning; The eye that waters is not ſo quick-ſighted, as to ſpie out elegan<g ref="char:EOLhyphen"/>cies: And where the Heart is full, the Hand cannot hold, till the eye hath done watering. But ſaith <hi>Ju<g ref="char:EOLhyphen"/>dah</hi> as he goes along mourning, for he mourns till this day, ſaith the Text (and wee may trace him by his teares) when I look upon the Parallel of the place, <hi>Zach.</hi> 12. 11. I am directed to mourn with one eye for my King, with the other for my Saviour; and indeed he ſaith true, for in this diſmall Tragedie of <hi>Joſiah,</hi> there was very much of Chriſt, both for the Innocen<g ref="char:EOLhyphen"/>cie of the ſufferer, and for the manner of his ſuffering.
+<pb n="3" facs="tcp:165198:5"/>
+The Archers that ſhot <hi>Joſiah</hi> knew him not to bee King of <hi>Judah;</hi> And the Jewes that crucified Chriſt knew him not to be their King; denying <hi>Pilats</hi> que<g ref="char:EOLhyphen"/>ſtion in ſtead of anſwering it, <hi>John</hi> 19. 15. <hi>Shall I cru<g ref="char:EOLhyphen"/>cifie your King?</hi> for they ſaid, <hi>We have no King but Cae<g ref="char:EOLhyphen"/>ſar,</hi> Profeſſing that if hee were their King (in their own knowledge,) they would never crucifie Him: O Generation of Chriſtians, worſe then Jewes.</p>
+            <p>
+               <hi>Joſiah</hi> kept a moſt ſolemn Paſſeover, and after it was made the Paſchal Lamb; So Chriſt<hi>:</hi> But with this Dif<g ref="char:EOLhyphen"/>ference; Chriſt for expiation and Diminution: <hi>Joſiah</hi> for denuntiation and increaſe of Vengeance; Bothin<g ref="char:EOLhyphen"/>nocencies ſuffer upon <hi>Golgotha;</hi> in Chriſt to quicken the skulls, in <hi>Joſiah</hi> to increaſe them<hi>:</hi> God permitted Chriſt to be ſlain, that he might reconcile <hi>Iſrael;</hi> But <hi>Joſiah,</hi> that he might reject &amp; remove it out of his ſight, 2 <hi>Kings</hi> 23. 27. <hi>Joſiah</hi> had not fought againſt <hi>Necho,</hi> if God had not fought againſt <hi>Judah;</hi> He ſtood like <hi>Aa<g ref="char:EOLhyphen"/>ron</hi> betwixt the Dead and the living; and God put him aſide, being reſolved to deſtroy all by Death; whiles <hi>Joſiah</hi> lived, <hi>Judah</hi> could not die, and now <hi>Joſiah</hi> is Dead, <hi>Judah</hi> may not hope (and ſcarce deſire) to live. This is the Reaſon of the ſad Dity in the mouths of all the ſinging men and the ſinging women, who ſeem to groan and ſigh out rather than ſing this heavy Lamentation; Ah thou bloudie Egyptian Tyrant, Hadſt thou brought all the plagues of <hi>Egypt</hi> with thee, and left thoſe Archers behind that ſhot <hi>Joſiah,</hi> well thou mighteſt have grinded <hi>Judah</hi> and <hi>Jeruſalem</hi> into Powder, but thou couldeſt never have diſſolved it in<g ref="char:EOLhyphen"/>to Tears: And now, O yee ſinging men, and yee ſinging women, forget all the ſongs of Sion, as if yee were al<g ref="char:EOLhyphen"/>ready in <hi>Babylon,</hi> (for it will not be long before you will be carried away captive thither,) Let all your
+<pb n="4" facs="tcp:165198:6"/>
+mirth be turned into mourning; your <hi>Joſiah</hi> is fallen, and your Hopes and Hearts are fallen with him, your voyces muſt fall too. Yet a deeper note of ſorrow, your ſinging muſt be turned into groaning, that your waylings may be as ſad as are your ſpirits; ſigh out your laſt groanings, and when you have thus quite mourned away your voyces, then mourn out your eyes; Let not the Crocodiles of <hi>Egypt,</hi> outvie the men of <hi>Judah;</hi> They weep over their ſlain traveller before they devoure him, having mercy in their eyes to check the want of it in their jawes: why ſhould we that have, or ought to have ſo much mercy in our Hearts, have none at all in our eyes? If this <hi>Joſiah</hi> and his goodneſſes, (2 <hi>Chron.</hi> 35. 26.) (A magazine of all that's good, in all other good men, layed up in one <hi>Joſiah)</hi> move you not, yet the other <hi>Joſiah</hi> in <hi>Zacharie</hi> muſt needs move you; If not his kindneſſes, yet your own unkindneſſes muſt needs excite you; And were your hearts as Rocks, yet ſtruck with <hi>Moſes</hi> his Rod (the terrours of Gods wrath againſt ſinners, which your <hi>Joſiah</hi> did undergoe in your ſtead) there muſt needs iſſue forth Rivers of waters: If you can exceed in ſor<g ref="char:EOLhyphen"/>row for <hi>Joſiah,</hi> becauſe he was taken away from the evill to come, yet you cannot for your own ſinnes by which he was taken away: I am brought into ſo great trouble and miſerie (ſaith the tender-hearted King, <hi>Pſa.</hi> 38. 6.) that I go mourning all the day long: Hee for my ſinnes, and not I much rather for mine own? Sorrow is certainly moſt agreeable with a godly heart, or the man after Gods own heart could not have ſpoken thus, much leſſe in the Perſon of the Sonne of God; not is the Precept and practiſe thereof meerly legall, for thoſe onely that were under the curſe of the Law; but alſo Evangelicall, for thoſe that are under
+<pb n="5" facs="tcp:165198:6"/>
+the Croſſe of Chriſt, and the bleſſings of the Goſpel, <hi>James</hi> 4. 8, 9. They that are ſinners muſt be afflicted, and mourn and weep<g ref="char:punc">▪</g> though they are bound to be<g ref="char:EOLhyphen"/>lieve the Remiſſion of ſins; (And they muſt be ſin<g ref="char:EOLhyphen"/>ners here in their own, who hope to be Saints hereaf<g ref="char:EOLhyphen"/>ter in Gods account<hi>:)</hi> Let us then joyn our ſelves to this ſad Quire of mourners, the ſeaſon calls for it; Lent was antiently a time of mourning; The occaſi<g ref="char:EOLhyphen"/>on calls for it, our <hi>Joſiah</hi> is ſlain, and wee have yet, a twofold lowder call, that of our own ſinnes and of Gods judgements, both which cry aloud for the moſt bitter kinds of Lamentation<hi>:</hi> If not for our intereſt in the life of our King, yet for our ſin in his Death, we muſt heartily lamenr, and that we may ſo do, wee muſt ever hereafter ſpeak of <hi>Ioſiah</hi> in all our Lamen<g ref="char:EOLhyphen"/>tations; <hi>[They ſpake of Ioſiah in their Lamentations to this day.]</hi>
+            </p>
+            <p>Sorrow is very unwilling to lift up either Head or Eye, and therefore though we have heard ſome of the mournings of <hi>Iudah,</hi> yet we have not looked ſo much about us, as to ſee either the occaſion of the mourning, or the condition of it: The Text directs us immedi<g ref="char:EOLhyphen"/>ately unto both.</p>
+            <p>Firſt, The occaſion of this bitter mourning, it was the untimely death of <hi>Joſiah,</hi> untimely to all but to himſelfe<hi>:</hi> They mourned for <hi>Ioſiah.</hi>
+            </p>
+            <p>2. The condition of it in the train of the Mourners; <hi>All</hi> Judah <hi>and</hi> Jeruſalem <hi>mourned, and</hi> Jeremiah <hi>la<g ref="char:EOLhyphen"/>mented, and all the ſinging men, &amp;c.</hi>
+            </p>
+            <p>Firſt the occaſion of this bitter mourning, the un<g ref="char:EOLhyphen"/>timely death of <hi>Ioſiah,</hi> lamentable in it ſelfe ſlain by Egyptians, in a full age and ripeneſſe of years to go<g ref="char:EOLhyphen"/>vern both himſelfe and <hi>Iudah,</hi> 2 <hi>Kings</hi> 22. 1. But more lamentable in its circumſtances, for hee had newly
+<pb n="6" facs="tcp:165198:7"/>
+made a Religious Real, not a ſpecious Phantaſticall league and covenant with God, 2 <hi>Chron.</hi> 34. 31. A Co<g ref="char:EOLhyphen"/>venant that bound him to change his heart, not his Re<g ref="char:EOLhyphen"/>ligion; and to keep the co<g ref="char:cmbAbbrStroke">̄</g>mandements which God had given, not to give a new Commandement in the name of God: <hi>He had taken away all the abominations of Iſ<g ref="char:EOLhyphen"/>rael,</hi> (34. 33.) Kept a moſt ſolemne Paſſeover (35. 18.) and both, with ſo great a Humiliation and Devotion, as might have exempted a moſt wicked <hi>Ahab</hi> from a judgement already denounced againſt him, not onely in his own (as 1 <hi>Kin.</hi> 21. 29.) but alſo in his ſons daies.</p>
+            <p>Yet after all this, comes his untimely Death, as it is ſaid, 2 <hi>Chro.</hi> 35. 20. <hi>After all this, when</hi> Joſiah <hi>had prepa<g ref="char:EOLhyphen"/>red the Temple,</hi> Necho <hi>King of Egypt came up,</hi> &amp;c. Af<g ref="char:EOLhyphen"/>ter all this, when <hi>Ioſiah</hi> had prepared the Temple, then himſelfe was made the Sacrifice; So that this one oc<g ref="char:EOLhyphen"/>caſion affords in truth many cauſes of their mourning, which are all reducible to theſe two Heads, Their Af<g ref="char:EOLhyphen"/>fection, and their Apprehenſion; their Affection, for what had befallen <hi>Ioſiah;</hi> and their Apprehenſion, for what was like to befall them.</p>
+            <p>1. There Affection for what had befallen <hi>Ioſiah:</hi> So the Prophet <hi>Ieremy</hi> begins his Lamentations, <hi>How is the City become a widow? Amiſso Rege optimo, qui Regni quaſi meritus eſt, &amp; popularium quaſi Pater,</hi> ſaith <hi>Tre<g ref="char:EOLhyphen"/>melius,</hi> a very good Proteſtant, but in this a far better Chriſtian; <hi>Ieruſalem</hi> was a widow having loſt her Husband, and an Orphan having loſt her Father, in the death of one <hi>Ioſiah;</hi> And ſo comes both with the Affe<g ref="char:EOLhyphen"/>ction of a widow to mourn for her husband, and with the affection of a child to mourn for her Father. If <hi>Ra<g ref="char:EOLhyphen"/>chel</hi> mourned ſo affectionately for her children, much more for her Husband, <hi>Ierem.</hi> 31. 15. Do but change the perſons, and you may ſee how <hi>Ieruſalem</hi> mourned
+<pb n="7" facs="tcp:165198:7"/>
+for <hi>Ioſiah; A voice was heard in Ramah, Lamentation and bitter weeping,</hi> not <hi>Rachel</hi> weeping for her chil<g ref="char:EOLhyphen"/>dren, but <hi>Ieruſalem</hi> weeping for her Husband, refuſeth to be comforted for her Husband, becauſe hee is not: If <hi>Ieremy</hi> could lament ſo exceedingly for the ſlain of the Daughter, then how much more for the ſlaying of the Father of his People? Doe but ſo change his words, and you have a ſhort view how <hi>Ieremiah</hi> lamen<g ref="char:EOLhyphen"/>ted for <hi>Ioſiah,</hi> as he went along with the mourners, <hi>Ier.</hi> 9. 1. <hi>O that my head were waters, and mine eyes a foun<g ref="char:EOLhyphen"/>taine of tears, that I might weep day and night for the ſlain of the Daughters,</hi> but much more, for the ſlain of the Father of my people.</p>
+            <p>Thus the greateſt natural and perſonal affection that could be to their <hi>Joſiah,</hi> as a Father, as a Husband, is the cauſe of this great Lamentation, and yet greater is the affection they ſhew to themſelves: For they did indeed in <hi>Joſiahs</hi> death, mourn and lament their owne Funeralls: their affection to him was capable of ſome comfort, but their affection to themſelves was capable of none; They knew that nothing but good had be<g ref="char:EOLhyphen"/>fallen <hi>Joſiah,</hi> for hee was gathered to his Fathers in peace, (as <hi>Huldah</hi> had propheſied, 2 <hi>Chron.</hi> 34. 28.) But they knew that nothing but evill could befall them<g ref="char:EOLhyphen"/>ſelves, for whoſe ſinnes he was ſo ſoon gathered to his Fathers: So that for their affection to him, they could comfort themſelves with theſe two documents; Firſt, That God will not have his faithfull ſervants rely up<g ref="char:EOLhyphen"/>on a temporall reward for their ſervice, but calleth them to the contemplation and fruition of Eternitie, and yet is no debter in not paying their wages here in this world, 2 <hi>Cor.</hi> 4. 17. Secondly, That an untimely and unmercifull Death, is ſometimes given in favour, not in judgement, to Righteous and mercifull men,
+<pb n="8" facs="tcp:165198:8"/>
+even to take them away from the evill to come, <hi>Iſa.</hi> 57. 1. As it was propheſied of this ſame <hi>Joſiah,</hi> that he ſhould be gathered to his fathers in peace, 2 <hi>Chron.</hi> 34. 28. which was without doubt fulfilled though hee was afterwards ſlain in Battell, which hath the moſt cruell, and the moſt dreadfull viſage of War; ſo that their inference ſavours of ill Logick, but of worſe di<g ref="char:EOLhyphen"/>vinity, who upon thoſe words, <hi>Behold how he loved him, John</hi> 11. 36. Preſently replyed, <hi>v.</hi> 37. <hi>Could he not have cauſed that this man ſhould not have died?</hi> as if that had been the greateſt teſtimonie of his love<hi>:</hi> For becauſe God loved <hi>Ioſiah,</hi> he ſuffered him to die. Thus their affection towards <hi>Ioſiah,</hi> might receive comfort from theſe two Documents, which moſt of all diſtracts and diſturbs their apprehenſion, when they reflect upon themſelves; For both theſe conſiderations ſpeak aloud to them this dreadfull truth, That the untimely death of their good King <hi>Joſiah,</hi> was not a Judgement upon the King, but upon the People, not upon him, but up<g ref="char:EOLhyphen"/>on <hi>Judah</hi> and <hi>Jeruſalem;</hi> and that's the ſecond cauſe of their great lamentation, their dreadfull apprehenſion for what was like to befall them<hi>: Judah</hi> and <hi>Jeruſalem</hi> mourned for themſelves in mourning for <hi>Joſiah;</hi> And the Prophet <hi>Jeremie</hi> ſhews them as much, who though he writ his Lamentations upon this ſad occaſion, the Death of <hi>Joſiah,</hi> (as <hi>Jarchi</hi> expounds theſe words of my Text, <hi>Behold they are written in the Lamentations,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſaith he, that is, <hi>In the Book of La<g ref="char:EOLhyphen"/>mentations,</hi> yet he begins his complaint with the miſe<g ref="char:EOLhyphen"/>rable eſtate, not of <hi>Joſiah,</hi> but of <hi>Jeruſalem;</hi> How doth the Citie fit ſolitarie that was full of people? None of all the Prophets ſeem ſo framed for, and compoſed to Lamentations as <hi>Jeremiah;</hi> he had a Heart to conceive it, a Hand to endite it, and a Tongue to expreſſe it;
+<pb n="9" facs="tcp:165198:8"/>
+Surely becauſe he writ much about the time of <hi>Joſiahs</hi> death, which was the Inlet of all <hi>Judahs</hi> miſerie: For immediatly after that, <hi>Judah</hi> was captivated under ſin, and that brought in the captivity under <hi>Babylon,</hi> whiles <hi>Joſiah</hi> lived, he made <hi>Judah</hi> and <hi>Ieruſalem</hi> ſerve God ſo devoutly, that <hi>Non fuit ſimile huic in Iſrael,</hi> was the Eulogie of their Paſſeover, 2 <hi>Chron.</hi> 35. 18. And no ſooner is he dead, bus 'tis ſaid of them, <hi>They walked after the imagination of their own heart,</hi> (a moſt ſecret, but a moſt ſottiſh kind of Idolatry,) <hi>And after Baa<g ref="char:EOLhyphen"/>lim, which their fathers taught them,</hi> Jer. 9. 14. (for in all probability this Chapter was not penned till after <hi>Ioſiahs</hi> death.) This is the reaſon <hi>Ieremiah</hi> Propheſies ſo mournfully, (a fit Prophet for thoſe calamitous times, both for the Diſpoſition in himſelf, and for his Invitation of others to ſorrow and contrition) inſo<g ref="char:EOLhyphen"/>much that a great part of his Propheſie is but a meer Lamentation, eſpecially the former part of it, which was neereſt the time of <hi>Ioſiah,</hi> (for after the 21. chap<g ref="char:EOLhyphen"/>ter, all his Propheſie is in the dayes of <hi>Iehoiakim</hi> and <hi>Zedechiah)</hi> wherein he ſomewhat exceeds the ſorrow of his own ſpirit, writing not onely more dolefully then any other Prophet, but alſo more dolefully then all the other parts of his own Prophecie, I will give you but one inſtance for all, and that is, <hi>cap.</hi> 4. <hi>v.</hi> 19. <hi>My bowells, my bowells, I am pained at the very heart:</hi> 'Tis in the Hebrew, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. I am pained as a woman in travaile, at the walls or bulwarks of my heart, that which moſt ſtruggles to keep life, hath the ſtroke of death upon it: The ſorrows of a woman in her travail are almoſt inſupportable; <hi>But a wounded ſpirit who can beare? Prov.</hi> 18. 14. The pain of the heart is for greater then the pain of the bowells, but leſt wee ſhould think, he was not in the greateſt extremitie of
+<pb n="10" facs="tcp:165198:9"/>
+pain, he joyns them both together, ſaying <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>I am ſo pained at the heart, as if I were in child-birth,</hi> ſuch was his griefe for <hi>Ioſiah's</hi> death, a pain that both rends the bowells and breaks the heart, and batters down the very walls and bulwarks of life. And what's the reaſon of all this great pain? He tells us in the next verſe, Deſtruction upon deſtruction is cryed, for the whole land is ſpoyled, which could not be while <hi>Ioſiah</hi> lived, and therefore in theſe and ſuch like ſad expreſſi<g ref="char:EOLhyphen"/>ons, he did Prophetically foretell, if not Hiſtorically bemoan <hi>Ioſiah's</hi> death, or rather indeed bemoan <hi>Ieru<g ref="char:EOLhyphen"/>ſalem,</hi> not but that his affection was moſt dutifull to <hi>Ioſiah,</hi> but becauſe his apprehenſion was more dread<g ref="char:EOLhyphen"/>full for <hi>Jeruſalem:</hi> For he ſaw that <hi>Ioſiah</hi> was taken to the Reward of mercy for his great zeale to God and Religion, but <hi>Jeruſalem</hi> was left expoſed to Judge<g ref="char:EOLhyphen"/>ment, for her multiplied Abominations and Impie<g ref="char:EOLhyphen"/>ties; And to the moſt heavy judgements of this world, Fire and Sword, and Bondage, and to the moſt heavie bondage that could be to them, a Bondage under the Egyptians. A Bondage, which their Fathers before had groaned ſo long under, and which they could not at that time but tremble to think upon, for <hi>Joſiahs</hi> Paſſeovers, (according to the Law, <hi>Exod.</hi> 12. 26, 27.) could not but fill their eares with the narration, and their hearts with the horrour of it; It was the Bon<g ref="char:EOLhyphen"/>dage of <hi>Egypt,</hi> which thoſe children could not but ex<g ref="char:EOLhyphen"/>pect mercileſſe, whoſe Fathers had been formerly the ſpoylers and deſtroyers of the Egyptians: Let us a lit<g ref="char:EOLhyphen"/>tle view this new Bondage, that it may appeare their feares were not greater then their dangers, though they were greater then their hopes, for now <hi>Egypt</hi> had learned to act beyond it ſelfe in the practiſe of cruel<g ref="char:EOLhyphen"/>ty: Before, it was contented to take the tribute of their
+<pb n="11" facs="tcp:165198:9"/>
+hands in work, or of their backs for not working, by the Brick-task-maſters; But now beſides theſe, it hath found out money task-maſters to demand Tribute of their purſes<hi>:</hi> The former Tyrants had made them ſlaves, but this <hi>Necho</hi> makes them pay for their ſlavery; nay, he made not onely their Purſes Tributary, but alſo their Patience, whiles they were forced to ſee <hi>Jehoaaz,</hi> whom they had declared King in his Fathers ſtead, depoſed by this Tyrant, and themſelves puni<g ref="char:EOLhyphen"/>ſhed for their Alleageance towards <hi>Joſiah,</hi> their beloved <hi>Jo<g ref="char:EOLhyphen"/>ſiah</hi> and his ſeed, in an hundred talents of Silver, and one ta<g ref="char:EOLhyphen"/>lent of Gold (2 <hi>Chro.</hi> 36. 3.) For it is more then probable that <hi>Necho</hi> condemned the Land in that mulct or puniſh<g ref="char:EOLhyphen"/>ment for preſuming to be true and faithfull to the Succeſ<g ref="char:EOLhyphen"/>ſion of the Crown without his leave<hi>:</hi> And yet there is a worſe Bondage then this, the bondage of their Religion; be<g ref="char:EOLhyphen"/>gun by the Egyptians, and compleated after by the Babylo<g ref="char:EOLhyphen"/>nians. This bondage of their Religion was now begun by the Egyptians, for <hi>Necho</hi> made <hi>Eliakim</hi> change his name to <hi>Je<g ref="char:EOLhyphen"/>hoiakim,</hi> (2 <hi>Chron.</hi> 36. 4.) before he would admit him to bee King, as if he ſhould renounce or forget his Circumciſion, wherein his name was firſt given him, or loſe his Kingdoms. And this ſame Bondage was compleated by the Babyloni<g ref="char:EOLhyphen"/>ans, who carried away all the Treaſures of the houſe of the Lord, and cut in pieces all the Veſſels of gold, which <hi>Solomon</hi> King of <hi>Iſrael</hi> had made in the Temple of the Lord; Thus were they forced to ſee the abomination of Deſolation ſtan<g ref="char:EOLhyphen"/>ding in the Holy place, which carried the Deſolation fur<g ref="char:EOLhyphen"/>ther then the Temple, even to their ſouls that ſaw it, whiles they were compelled to look on prophanneſſe in ſtead of Re<g ref="char:EOLhyphen"/>ligion, and ſee their Temple and worſhip both made havock of by uncircumciſed Babylonians, they not in the leaſt de<g ref="char:EOLhyphen"/>gree able to help either themſelves or their Temple.</p>
+            <p>All the Book of God ſets not down ſo ſad an Hiſtory of a King deſtroyed for his People, as this of <hi>Joſiah;</hi> And there<g ref="char:EOLhyphen"/>fore
+<pb n="10" facs="tcp:165198:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:165198:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:165198:11"/>
+no wonder if we find not any where elſe ſo ſad a lamen<g ref="char:EOLhyphen"/>tation: they had kept a ſolemn Paſſeover before, but now they were forced to keep a diſmall Paſſeover, when their in<g ref="char:EOLhyphen"/>nocent <hi>Joſiah</hi> was made the Paſchal Lamb, and their firſt born not ſaved, but deſtroyed by the ſprinkling of his blood. We have but one example that comes neer this, and that is of our Saviour Chriſt; And he bids the women of <hi>Jeruſa<g ref="char:EOLhyphen"/>lem</hi> lament not for him, but for themſelves, and for their children, <hi>Luk.</hi> 23. 27. for though his death did ſatisfie the e<g ref="char:EOLhyphen"/>ternall wrath of God againſt other ſinners, yet did it open the floudgates, to let in his temporall wrath upon them that crucified him by a whole deluge of Bloud. But behold in this of <hi>Joſiah</hi> is ſomewhat a more diſmal Paſſeover: For in the Paſſeover of Chriſt, as it was typicall in the Lamb, none but Egyptians, as it was reall in himſelfe, none but Divels were ſmitten; But in this of <hi>Joſiah,</hi> all <hi>Iſrael,</hi> nay the beſt of all <hi>Iſrael, Judah</hi> and <hi>Jeruſalem,</hi> nay the beſt of <hi>Jeruſalem,</hi> the Temple of God, nay the beſt of the Temple, the Altar, the worſhip of God was ſmitten.</p>
+            <p>All the Plagues that <hi>Iſrael</hi> had formerly occaſioned unto <hi>Egypt,</hi> were now more then aboundantly repayed back again to them by the Egyptians, in taking away their <hi>Joſiah,</hi> who ſtood alone betwixt them and the finall wrath of God; From henceforth <hi>Jeruſalem</hi> may expect, to be made a Cup of trem<g ref="char:EOLhyphen"/>bling unto others <hi>(Zach.</hi> 12. 2.) and much more unto her ſelfe<hi>:</hi> And the Inhabitants of <hi>Judah</hi> may take up that ſad complaint of the Pſalmiſt, <hi>Pſal.</hi> 60. 3. <hi>Thou haſt given us a drink of deadly wine, Potaſti nos Vino,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Tremoris, quod bibens homo contramiſcit &amp; moritur; Thou haſt given us not onely a drink of deadly poyſon,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as ſaith <hi>Jarchie,</hi> that contracts and ſhuts up the Heart, but alſo a drink of Palſie-poyſon, that firſt brings a ſhaking, then death upon him that drinks it; <hi>Jeruſalem</hi> had ſuch a Cup of Trembling at <hi>Joſiah</hi>'s death; ſhe could not but fear and tremble to think,
+<pb n="13" facs="tcp:165198:11"/>
+that ſince her ſins were now ſo great as to make God ſnatch away her <hi>Joſiah,</hi> that he might recall the bleſſings of Peace and Truth, which he had given, they would not in haſt be ſo little as to ſuffer him to renew again ſuch bleſſed gifts.</p>
+            <p>This was the occaſion of this great mourning, and the con<g ref="char:EOLhyphen"/>dition is anſwerable to the occaſion, which is my ſecond ge<g ref="char:EOLhyphen"/>nerall part, The condition of this mourning in the train of Mourners, <hi>And all Judah and Jeruſalem mourned, and Jere<g ref="char:EOLhyphen"/>miah lamented, and all the ſinging men, and the ſinging women ſpake of Joſiah in their Lamentations, &amp;c.</hi>
+            </p>
+            <p>The condition of this mourning is ſuch, as never was be<g ref="char:EOLhyphen"/>fore nor after it; all the imaginable degrees of ſorrow are to be found in it; <hi>Gradus extenſionis, Gradus intenſionis, Gradus Protenſionis;</hi> The greateſt ſorrow that ever was in <hi>Judah</hi> for its univerſality, for its vehemencie, for its continuance; 1. <hi>Gradus extenſionis,</hi> The greateſt ſorrow that ever was for its Univerſality: For tis <hi>Omnes &amp; ſinguli,</hi> all <hi>Judah</hi> and <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> in general, Then <hi>Jeremiah</hi> and the ſinging men &amp; ſing<g ref="char:EOLhyphen"/>ing women in particular<g ref="char:punc">▪</g> in their ſeverall conſorts and com<g ref="char:EOLhyphen"/>panies, nay in their ſeverall Families, ſaith <hi>Zach.</hi> 12. 12, 13. <hi>And the land ſhall mourn every family apart, the family of the houſe of David apart,</hi> [for the great loſſe that is befallen the houſe of <hi>David.] And the family of the houſe of Levi apart,</hi> [for the great loſſe that is befallen to the houſe of God] <hi>Every family apart</hi> [for their great loſſe, in the loſſes of the houſe of <hi>David,</hi> and the houſe of God.] If true griefe of heart could endure to be Ceremonious, it would here eaſily find an employment for a <hi>Litania major;</hi> and buſie another <hi>Gregory</hi> (for here is a <hi>Mauritius</hi> too ſlaughtered by the Cap<g ref="char:EOLhyphen"/>tain of his Armies) to order this ſad Proceſſion, wherein all the Families of <hi>Iudah</hi> and <hi>Ieruſalem</hi> apart, do bewaile and lament the loſſe of their deareſt Lord, the onely joy of their hearts whiles he lived; and now dead, the greateſt griefe of them<hi>:</hi> But I can take notice onely of their Paſſion, which
+<pb n="14" facs="tcp:165198:12"/>
+makes them cry out with great earneſtneſſe, but greater ſor<g ref="char:EOLhyphen"/>row, in this dreadfull Quaking of men, as thoſe of <hi>Conſtanti<g ref="char:EOLhyphen"/>nople</hi> ſometimes did in that dreadfull quaking of the Earth, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Sanctus Deus, Sanctus Fortis, Sanctus Immortalis miſerere noſtri,</hi> Holy O God, Holy O mightie, Holy ô Immortal have mercy upon us; have mercy upon us that are living, who haſt already mag<g ref="char:EOLhyphen"/>nified thy mercy towards the dead, in taking him away by death, from the inſupportable miſeries of this wretched life.</p>
+            <p>But why is there no mention of <hi>Iſrael</hi> in this Univerſall ſorrow of all <hi>Judahs</hi> and <hi>Jeruſalems</hi> mourning for <hi>Joſiah?</hi> I anſwer, they were not ſo happy (though this happineſſe was the greateſt of miſeries) they were not ſo happy as to have any ſhare in this loſſe, and therefore not in this Lamentati<g ref="char:EOLhyphen"/>on; this ſorrow had too much of God for the Iſraelites to be partners in it, who had ſo little of God left in them<hi>:)</hi> Nay, who had ſo deſperately fallen away from him; which Apo<g ref="char:EOLhyphen"/>ſtaſie of theirs is remarkably ſet forth by one of their own writers, <hi>R. David Kimchi</hi> upon <hi>Hoſ.</hi> 3. <hi>v.</hi> 4, 5. The words of the Prophet are theſe, <hi>Verſe</hi> 4. <hi>For the children of Iſrael ſhall abide many daies without a King, and without a Prince, and without a Sacrifice, and without an Ephod, and Teraphim,</hi> Verſe 5. <hi>Afterward ſhall the children of Iſrael return and ſeek the Lord their God, and David their King, and ſhall fear the Lord and his goodneſſe in the latter dayes.</hi> The fourth verſe ſets down <hi>Iſraels</hi> captivity for their ſin; The fift verſe, their Reſtauration for their Repentance<hi>:</hi> And <hi>Kimchie</hi> upon thoſe words gives us this gloſſe, <hi>The children of Iſrael</hi> (ſaith he) <hi>did in the daies of</hi> Rehoboam, <hi>reject or forſake three things,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> They did reject the kingdome of Heaven in forſaking God; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> And the Kingdom of the houſe of <hi>David,</hi> in forſaking <hi>Rehoboam;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> And the houſe of the Sanctuary or temple of <hi>Jeruſalem,</hi> in ſetting up Calves at <hi>Bethel;</hi> And in theſe three conſiſted their cap<g ref="char:EOLhyphen"/>tivity.
+<pb n="15" facs="tcp:165198:12"/>
+Therefore in the fift verſe where is promiſed their Reſtauration, the Prophet ſaith, they ſhall return again to all theſe; <hi>They ſhall ſeek the Lord their God,</hi> there is promi<g ref="char:EOLhyphen"/>ſed their return to the Kingdome of Heaven; <hi>And David their King,</hi> there's promiſed their return to the houſe of <hi>Da<g ref="char:EOLhyphen"/>vid; And ſhall fear the Lord and his goodneſſe,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>&amp; Bonum ejus,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſaith <hi>Kimchie,</hi> that is, <hi>His San<g ref="char:EOLhyphen"/>ctuary:</hi> There's promiſed their return to the houſe of God; In their defection from theſe was their Apoſtaſie, in their Apoſtaſie, was their miſerie and captivitie; Before their Revolt in King <hi>Davids</hi> time, it was, <hi>O Iſrael truſt in the Lord,</hi> and, <hi>he ſhall redeem Iſrael from all his ſinnes,</hi> Pſal. 130. But after <hi>Jeroboams</hi> Rebellion and Revolt from the houſe of <hi>David,</hi> we find that <hi>Iſrael</hi> had not one good King in many ſucceſſions of Ages, and that it had very little ſhare in the true worſhip of God, and as little in his bleſſing.</p>
+            <p>Secondly, <hi>Gradus intenſionis,</hi> The greateſt ſorrow that ever was in <hi>Judah</hi> for its Vehemencie; mourning, lament<g ref="char:EOLhyphen"/>ing, ſpeaking, ordaining, writing not words enough to ex<g ref="char:EOLhyphen"/>preſſe this Lamentation, Therefore is that for the death of Chriſt compared to it, and expreſſed by it, <hi>Zach.</hi> 12. 11. To ſhew, that not words, but onely tears can ſpeak it: Thoſe ſilent orators make leaſt noiſe, but greateſt moan: Chriſt anſwers the tears of the weeping Woman, when he would not anſwer the words of the inſolent Judge; I hope he will ſo anſwer us, and in mercie look back upon us, (as he did upon them, <hi>Luk.</hi> 23. 28.) Bewayling and lamenting our ſins, that brought death both upon him, and upon our <hi>Joſiah;</hi> we have no other Balme to afford him at his Buriall, but what grows in our heads, and drops from our eyes: <hi>Joſeph</hi> is acquitted from conſenting to the counſell of them that kil<g ref="char:EOLhyphen"/>led Chriſt, by providing a Tomb to bury him, <hi>Luk.</hi> 23. 51. Let us acquit our ſelves too, by providing tears to embalm him: And notwithſtanding the outcry of the people in their
+<pb n="16" facs="tcp:165198:13"/>
+generall Petition for Juſtice againſt the Lords anointed, for Chriſt is ſo both to Heaven and Earth, as againſt one that had injured God and <hi>Caeſar,</hi> the Text ſeems to ſpeak favourably of them who ſmote their breaſts and returned, <hi>Luk.</hi> 23. 48. for ſuch did certainly either ſhew their inno<g ref="char:EOLhyphen"/>cencie, or wiſh themſelves innocent: Let us earneſtly fol<g ref="char:EOLhyphen"/>low after ſuch an innocencie, which what it wants in Righ<g ref="char:EOLhyphen"/>teouſneſſe, hath in Repentance; <hi>Necho</hi> himſelf though he opened that diſmal Urine of Bloud, yet cared not to ſtop this milder Vein of water; Hee had filled their hearts too full, to denie them to fill their eyes: And that man would profeſſe himſelf worſe then an Egyptian Tyrant who ſhould goe about to forbid ſuch mourning for a dead King, as teſtifies ſorrow for the ſinne that killed Him; for that were all one as to forbid Repentance, and to encourage an impenitent courſe of ſinning No Conquerour may expect to exerciſe his conqueſt over the affections, And leaſt of all ſhould he deſire to exerciſe it over that of ſorrow, becauſe that moſt plainly, though unwillingly acknowledgeth his Conqueſt: But if <hi>Necho</hi> ſhould have deſired this, he would have deſired it in vain; for none can take away tears from the eyes, but he that made them to be there; It was an eaſi<g ref="char:EOLhyphen"/>er taske for him to gain a conqueſt over the mens hands, then over womens eyes<hi>:</hi> nay in this reſpect, hee had made the moſt couragious and ſtout-hearted men of <hi>Judah,</hi> to become women; that whom by their Swords they could not pre<g ref="char:EOLhyphen"/>ſerve from falling, him being fallen they might bewaile with their tears; thinking it more honourable to pay the tribute of women to their dead King, then the tribute of men to a living Tyrant: And yet indeed thoſe teares were not ſo much the expreſions of duty to their dead Lord, as of Piety to their living God; Teares of Repentance and re<g ref="char:EOLhyphen"/>morſe of conſcience; The man of <hi>Judah</hi> highly diſdaining to become tributary to <hi>Egypt,</hi> before they had been tributary
+<pb n="17" facs="tcp:165198:13"/>
+to Heaven, and therefore they firſt pay God tribute of their teares, then <hi>Pharaoh</hi> of their money; firſt God the tribute of their ſoules by a hearty ſorrow, then <hi>Necho</hi> the tribute of their bodies by a conſtrained Captivity.</p>
+            <p>Thirdly, <hi>Gradus Protentionis,</hi> The greateſt ſorrow that ever was in <hi>Judah,</hi> for its continuance: For, <hi>To this day,</hi> ſaith the Text, <hi>and an Ordinance in Iſrael, and written in the Lamentations. Till this day, id eſt,</hi> till <hi>Ezra's</hi> time, after the Captivity of <hi>Babylon;</hi> nay indeed, till our time, till all time, if not in the ſorrow it ſelfe (which is too too certain) yet in the Records of it, <hi>The Booke of the Lamentations.</hi> 'Twas happily a practiſe for ſome few, but ſure 'twas a Patterne for all Ages; <hi>An Ordinance in Iſrael,</hi> for in all publick la<g ref="char:EOLhyphen"/>mentations ever after <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſaith <hi>Jarchie<g ref="char:punc">▪</g>
+               </hi> They took an occaſion to rub up this ſore, to make mention of this bitter weeping. It ſeems they had a Remembrance of this in all their great mournings, as they had of worſhip<g ref="char:EOLhyphen"/>ping <hi>Aarons</hi> Calfe in all their great Repentances. And as in all their Epidemical miſeries and calamities after their Idolatrie, they ſuppoſed they ſaw a Dramme of <hi>Aarons</hi> Calfe, which made them ſtill bewaile that ſinne; So in all the bloudſhed that ever after came upon <hi>Jeruſalem,</hi> they might well ſuppoſe they did behold ſome one drop of <hi>Jo<g ref="char:EOLhyphen"/>ſiahs</hi> Bloud, and that made them multiply thoſe tears, which though they could not wipe away their guilt, yet could weep out their ſorrow.</p>
+            <p>O God put thy <hi>Jeruſalems</hi> tears into thine own bottle, who diddeſt firſt put them into her eyes; Let thy hand wipe them away from thence, becauſe thy Spirit firſt put them there; And leſt (paſſing through ſo muddie a channel of ſinfull earth) they ſhould defile thy Hand to touch them, Waſh we beſeech thee both our Bodies and Soules in the
+<pb n="18" facs="tcp:165198:14"/>
+Bloud of thy Sonne, that though we mourne for a ſeaſon in this life, yet we may be everlaſtingly comforted in the life to come, even in the bleſſed Viſion and fruition of God the Father, the Sonne, and the holy Goſt, world without end, <hi>Amen.</hi>
+            </p>
+            <q>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>:</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+            </q>
+            <q>
+               <l>
+                  <hi>Whom God hath crowned, whom God hath ever taught,</hi>
+               </l>
+               <l>
+                  <hi>For him God would not have deliverance wrought;</hi>
+               </l>
+               <l>
+                  <hi>And is he gone! may flames earth overthrow,</hi>
+               </l>
+               <l>
+                  <hi>And gloomy darkneſse Heavens overgrow:</hi>
+               </l>
+               <l>
+                  <hi>It was not Inke but Teares that fill'd my Penne,</hi>
+               </l>
+               <l>
+                  <hi>When I did write, King</hi> CHARLES <hi>is crown'd in Heav'n.</hi>
+               </l>
+               <l>
+                  <hi>Thus did I ſigh, this was my hearty Groane,</hi>
+               </l>
+               <l>
+                  <hi>Who lov'd my Kings life better then mine owne.</hi>
+               </l>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
